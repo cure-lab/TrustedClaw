@@ -1,2 +1,2 @@
-# TrustedClaw
-This is the official TrustedClaw project from CureLab for governing the safety issues of OpenClaw
+# TrustedBot
+This is the official TrustedBot project from CureLab for governing the safety issues of personal AI assistant like OpenClaw (Clawdbot).
